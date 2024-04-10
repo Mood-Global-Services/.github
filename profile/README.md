@@ -1,6 +1,6 @@
 Welcome to the Mood Global Services (MGS) git repositories. 
 Here we highlight some of the publically accessible projects either from clients 
-or native projects from teh MGS ubrella.
+or native projects from the MGS ubrella.
 Ofcourse we include smart contracts, which are always publically accesssible (except for some privacy chain, yes yes). 
 For more info, 
   please contact 
